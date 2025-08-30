@@ -15,12 +15,15 @@ const parent = React.createElement("div",{id: "parent"},[
   //const heading = React.createElement(
         //    "h1",
           //  {id: "heading",xyz:"raj"},  
-            //"hello world from raj chauhan!"
+            //"hello world from raj chauhan!" 
         // );  creat javascript obj
 
           
           console.log(parent);//obj
 
-            const root = ReactDOM.createRoot(document.getElementById("root"));
+            //const root = ReactDOM.createRoot(document.getElementById("root"));
+                        const root = ReactDOM.createRoot(document.getElementById("header")); //assign root
 
           root.render(parent); //obj // take this obj creat h1 element for browser understanding put them inside the root
+          
+// render method is put an obj on to our page
