@@ -1,1 +1,1 @@
-{"mappings":"AAAA","sources":["index.css"],"sourcesContent":["#heading {\n    color: red;\n}\n"],"names":[],"version":3,"file":"REACT.9e4c6fd2.css.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":"AAAA;;;;AAGA","sources":["index.css"],"sourcesContent":[".heading{\n   color: purple;\n}\n.raj{\n   color: red;\n}\n"],"names":[],"version":3,"file":"REACT.9e4c6fd2.css.map","sourceRoot":"/__parcel_source_root/"}
